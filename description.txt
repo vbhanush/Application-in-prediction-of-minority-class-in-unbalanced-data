@@ -1,0 +1,8 @@
+1)Performed Descriptive and Exploratory analysis on the data given.
+2)Preprocessed data using techniques like One hot encoding.
+3)Applied Upsampling techniques(SMOTE) since the data was unbalanced with a minority class.
+4)Test Various algorithms like Logistic regression,XGBoost,SVM with GridSearch method to optimize their parameters.
+5)Models were evaluated on the basis of Balanced error rate,which is average rate on each class.
+6)Random forest model gave the best results with the accuracy of 80%
+
+Technology Stack - SMOTE,pandas,scikit-learn,numpy,XGboost,Logistic regression,matplotlib.
